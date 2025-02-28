@@ -5,7 +5,7 @@ This project is purposed for preserving the project Every Noise at Once (everyno
 
 #All credit for the data itself goes to Glenn McDonald and the artists and bands who created the music. This project is a tribute to their work and aims to preserve and expand upon it.
 
-Email: glenn.mcdonald@furia.com
+Email: glenn.mcdonald@furia.com <br />
 LinkedIn: [glenn mcdonald](https://www.linkedin.com/in/glenn-mcdonald-ab3b36/) <br />
 Twitter: [glenn_mcdonald](https://x.com/glenn_mcdonald) <br />
 Threads: [glennmcdonald](https://www.threads.net/@glennmcdonald) <br />
